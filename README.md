@@ -20,7 +20,7 @@ This Jupyter notebook is an attempt to connect relevant stuff so that a class XI
 
 ## [FFT for highschool kids](fft_for_highschool.ipynb) 
 
-### Open [FFT for highschool kids with nbviewer](https://nbviewer.jupyter.org/github/sundararajana/fft_for_highschool/blob/main/fft_for_highschool.ipynb)
+### Open [FFT for highschool kids with nbviewer](https://nbviewer.jupyter.org/github/sundararajana/fft_for_highschool/blob/master/fft_for_highschool.ipynb)
 
 ### Open [FFT for highschool kids with Google colab](https://githubtocolab.com/sundararajana/fft_for_highschool/blob/master/fft_for_highschool.ipynb)
 
